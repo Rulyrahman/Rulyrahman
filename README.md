@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ruly Rahman</h1>
-<h3 align="center">Im a newbie who codes, debugs, and repeats. Sleep? Only if the code compiles.</h3>
+<p></p>
+<h3>Hi 👋, I'm Ruly Rahman</h3>
 
-- 💻 I specialize in **Laravel** and **MERN Stack**.
-- 📚 Always learning and improving my **Backend & Frontend** skills.
-- 🛠️ Love working on **scalable and high-performance applications**.
-- 🔥 Passionate about **clean code, open-source, and automation**.
+- 💻 Im a newbie who codes, debugs, and repeats. Sleep? Only if the code compiles.
+- 📚 Always learning and improving my programming code skills.
+- 🛠️ I enjoy developing applications that deliver value and satisfaction to clients.
 
 ![](https://github-profile-trophy.vercel.app/?username=rulyrahman&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
