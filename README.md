@@ -10,5 +10,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=rulyrahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rulyrahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h3># Most Used Languages in Organization</h3>
