@@ -10,4 +10,4 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rulyrahman&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rulyrahman&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rulyrahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rulyrahman&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
